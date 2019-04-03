@@ -320,6 +320,21 @@ color:#870e5d;
   color: white;
 }
 
+.findNav .navbar-nav li a
+{
+  color: #fff;
+}
+.findNav .navbar-nav li a:hover
+{
+  background: #ddd;
+  color: #434344;
+  outline : 0;
+}
+.findNav .navbar-nav li a:active,
+.findNav .navbar-nav li a:focus
+{
+  outline: 0;
+}
 
 
 #mynavigationbar .navbar-creative-tim a:hover{
