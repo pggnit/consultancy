@@ -369,7 +369,7 @@ background-color: #c1e21b;
 
 .top5-heading
 {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 
@@ -404,7 +404,7 @@ font-size:  20px;
 
    .india-heading
    {
-     margin-top: -5px;
+     margin-top: 5px;
    }
    .india-text
    {
@@ -437,7 +437,7 @@ font-size:  20px;
 
          .australia-heading
          {
-           margin-top: -5px;
+           margin-top: 5px;
          }
          .australia-text
          {
@@ -466,11 +466,12 @@ font-size:  20px;
 
             #canada img{
               margin-bottom: 15px;
+            
             }
 
          .canada-heading
          {
-           margin-top: -5px;
+           margin-top: 5px;
          }
          .canada-text
          {
@@ -503,7 +504,7 @@ font-size:  20px;
 
          .us-heading
          {
-           margin-top: -5px;
+           margin-top: 5px;
          }
          .us-text
          {
@@ -536,7 +537,7 @@ font-size:  20px;
 
          .uk-heading
          {
-           margin-top: -5px;
+           margin-top: 5px;
          }
          .uk-text
          {
