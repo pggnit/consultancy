@@ -292,7 +292,7 @@ color:#870e5d;
 
 
 #find{
-    background-color: #b5e5dc;
+    background-color: white;
   margin: auto;
 }
 
@@ -301,6 +301,9 @@ color:#870e5d;
   top: 10%;
   width: 100%;
   height: 50%;
+}
+#find .bar{
+  background-color: #d8d8d4;
 }
 
 #find h1{
@@ -319,6 +322,18 @@ color:#870e5d;
   text-align: center;
   font-weight: bold;
   color: white;
+}
+
+#find .btn.btn-default
+{
+background-color: #39cc14;
+border-color: white;
+color: white;
+}
+
+#find .btn.btn-default:hover
+{
+background-color: #c1e21b;
 }
 
 .findNav .navbar-nav li a
@@ -343,13 +358,20 @@ color:#870e5d;
 }
 
 #top5 img{
+  margin-top: -10px;
   margin-bottom: 15px;
+}
+
+#top5 h4{
+  margin-top: -20px;
+  margin-bottom: -20px;
 }
 
 .top5-heading
 {
-  margin-top: -5px;
+  margin-top: 10px;
 }
+
 
 .top5-text
 {
